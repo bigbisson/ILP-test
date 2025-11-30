@@ -10,13 +10,12 @@ The implementation is written in **Golang**, designed to be clean, modular, and 
 ---
 
 ## 🚀 Project Structure
-.
-├── tasks.go # All GO1–GO5 task implementations
-├── test_runner.go # Executes all task examples
-├── generate_result.sh # Script to generate technical_test.txt
-├── technical_test.txt # Output file (generated)
-├── .github/workflows/ci.yml # GitHub Actions workflow
-└── go.mod
+tasks.go # All GO1–GO5 task implementations
+test_runner.go # Executes all task examples
+generate_result.sh # Script to generate technical_test.txt
+technical_test.txt # Output file (generated)
+.github/workflows/ci.yml # GitHub Actions workflow
+go.mod
 
 ---
 
